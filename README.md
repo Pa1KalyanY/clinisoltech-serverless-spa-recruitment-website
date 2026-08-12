@@ -1,6 +1,7 @@
 # ClinisolTech
 ### High-Performance Vanilla JavaScript SPA for IT Staffing & Technology Consulting
-<img width="1276" height="607" alt="image" src="https://github.com/user-attachments/assets/7143d215-601a-4c4f-b3e7-a823505bcafb" />
+<img width="1781" height="899" alt="image" src="https://github.com/user-attachments/assets/de6b5085-4e6f-4ee0-938f-7482d617d7c8" />
+
 
 > A production corporate web application built without a frontend framework,
 > featuring custom History API routing, GSAP interactions, serverless form
@@ -335,9 +336,12 @@ processing layer.
 Business inquiry workflow connected to Google Apps Script.
 
 ### Responsive Experience
+Mobile Version
+<img width="320" height="785" alt="image" src="https://github.com/user-attachments/assets/f4a554b6-c5f0-407e-9a08-77f18139c1a8" />
 
-<img width="317" height="513" alt="image" src="https://github.com/user-attachments/assets/f662ecf6-52a4-47f4-8a62-1286e38d93aa" />
-<img width="764" height="523" alt="image" src="https://github.com/user-attachments/assets/8d734b0a-d16d-493a-803e-220c8601d767" />
+Tablet Version
+<img width="574" height="817" alt="image" src="https://github.com/user-attachments/assets/2cb67c5a-a8e5-4545-9181-31c0cc4ddff3" />
+
 
 
 Responsive layouts and navigation optimized for smaller devices.
