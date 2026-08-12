@@ -1,4 +1,4 @@
-<img width="1920" height="7877" alt="image" src="https://github.com/user-attachments/assets/156bf8b2-c0ad-40c1-b6d8-f52e87b11bcf" /><img width="1920" height="2807" alt="image" src="https://github.com/user-attachments/assets/15a9f4a6-f654-4b3a-aab4-ceabcd7097cd" /># ClinisolTech
+# ClinisolTech
 ### High-Performance Vanilla JavaScript SPA for IT Staffing & Technology Consulting
 <img width="1781" height="899" alt="image" src="https://github.com/user-attachments/assets/de6b5085-4e6f-4ee0-938f-7482d617d7c8" />
 
