@@ -1,4 +1,4 @@
-# ClinisolTech
+<img width="1920" height="7877" alt="image" src="https://github.com/user-attachments/assets/156bf8b2-c0ad-40c1-b6d8-f52e87b11bcf" /><img width="1920" height="2807" alt="image" src="https://github.com/user-attachments/assets/15a9f4a6-f654-4b3a-aab4-ceabcd7097cd" /># ClinisolTech
 ### High-Performance Vanilla JavaScript SPA for IT Staffing & Technology Consulting
 <img width="1781" height="899" alt="image" src="https://github.com/user-attachments/assets/de6b5085-4e6f-4ee0-938f-7482d617d7c8" />
 
@@ -296,7 +296,8 @@ SEO
 
 ### Landing Experience
 
-<img width="1276" height="607" alt="image" src="https://github.com/user-attachments/assets/e17ddc64-0018-4a06-ad36-66a8178fe092" />
+<img width="1772" height="883" alt="image" src="https://github.com/user-attachments/assets/83978c12-eb00-4ba3-9fc4-f564fc3c0631" />
+
 
 
 The landing experience introduces the company's staffing and technology
@@ -330,7 +331,8 @@ processing layer.
 
 ### Contact & Lead Generation
 
-<img width="1041" height="607" alt="image" src="https://github.com/user-attachments/assets/4b814761-106e-41e1-845d-5d7a282b61ca" />
+<img width="1920" height="2807" alt="image" src="https://github.com/user-attachments/assets/e4ec47c7-8be2-4cc6-b25c-fccbd18f1810" />
+
 
 
 Business inquiry workflow connected to Google Apps Script.
